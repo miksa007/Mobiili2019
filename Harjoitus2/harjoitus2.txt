@@ -1,0 +1,5 @@
+Toimintaperiaate
+- Kloonaus
+- hakemiston luonti
+- txt -tiedoston luonti
+- commit
